@@ -1,3 +1,2 @@
-https://www.coze.cn/space/7426022495679594496/develop
-使用Coze制作的AI Agent, 功能包括：
-1、心理咨询
+本人使用Coze制作的AI Agent, 均已上线扣子商城和作品社区。功能包括：
+1、心理咨询：https://www.coze.cn/s/NwUnGYX-BcY/
