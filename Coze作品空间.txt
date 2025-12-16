@@ -1,2 +1,5 @@
-本人使用Coze制作的AI Agent, 均已上线扣子商城和作品社区。功能包括：
-1、心理咨询：https://www.coze.cn/s/NwUnGYX-BcY/
+本人使用Coze制作的多款AI Agent, 均已上线扣子商城和作品社区。包括：
+1、心理家园：用于对于用户的情绪烦恼和心理困惑进行疏导。体验地址：https://www.coze.cn/s/NwUnGYX-BcY/.
+2、AI投标助手：可以解析繁杂的招标文件，自动化输出招标关键信息报告，并与用户互动对话。体验地址：https://www.coze.cn/s/8Bp4XWmtXy8/.
+3、调研诊断助手：可以实时语言转文字生成对话记录，并根据调研材料输出专业的诊断分析报告。体验地址：https://www.coze.cn/s/lk7ycGpZ8zU/
+4、
